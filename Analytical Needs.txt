@@ -1,0 +1,7 @@
+Filter Categories - Month and Year, Customer Name, Customer Type, Product Code, Product Type, Market Name, Zone
+
+1. Total Revenue - filter categories
+2. Total Sales Qty - filter categories
+3. Top 5 Products - filter categories
+4. Bottom 5 Products - filter categories
+5. Y-o-Y sales %
